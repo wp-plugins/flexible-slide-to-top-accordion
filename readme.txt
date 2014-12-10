@@ -13,6 +13,8 @@ Flexible slide to top accordion is a accordion with unlimited content scrolling 
 
 Flexible Slide To Top Accordion is a Wordpress Accordion Plugin. It's a good choice to display additional information with accordion effect. As an administrator, you can set number of items to be displayed.Flexible Slide To Top Accordion is built with flexible features: responsive layout, unlimited accordions content, unlimited galleries.
 
+This plugin jquery and css was taken from [tympanus.net](http://tympanus.net/codrops/2011/10/12/flexible-slide-to-top-accordion). I have just tried to create a simple accordion plugin. For demo [click Here](http://tympanus.net/Tutorials/FlexibleSlideToTopAccordion/) 
+
 == Installation ==
 1. Upload plugin folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
@@ -35,7 +37,9 @@ Nop, it does not have shortcodes.
 1. Backend Page
 
 == Changelog ==
--
+= 1.0 =
+* Initial Release
+
 
 == Upgrade Notice ==
 -
