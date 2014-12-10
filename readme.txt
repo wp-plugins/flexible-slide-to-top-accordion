@@ -29,7 +29,9 @@ Yes, it supports images. And it has its own image gallery.
 Nop, it does not have shortcodes. 
 
 == Screenshots ==
+
 1. Front Page Accordion
+1. Settings Page
 
 
 == Changelog ==
