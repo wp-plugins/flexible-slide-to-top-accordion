@@ -32,7 +32,7 @@ Nop, it does not have shortcodes.
 
 1. Front Page Accordion
 1. Settings Page
-
+1. Backend Page
 
 == Changelog ==
 -
